@@ -10,6 +10,10 @@ import Foundation
 
 class TipCalculatorModel {
     
+    
+    
+    
+    
     var total: Double
     var taxPct: Double
     var subtotal: Double {
