@@ -5,7 +5,11 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
+<<<<<<< HEAD
+	<string>315000F9-A342-4048-BF98-B943CE54C6EE</string>
+=======
 	<string>C2B1817A-0D0B-4A8D-AD35-C4999C06C99F</string>
+>>>>>>> origin/master
 	<key>IDESourceControlProjectName</key>
 	<string>Tip Calc</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
