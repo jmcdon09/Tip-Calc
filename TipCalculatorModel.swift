@@ -9,10 +9,7 @@
 import Foundation
 
 class TipCalculatorModel {
-    
-    
-    
-    
+    //comment
     
     var total: Double
     var taxPct: Double
