@@ -9,7 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    // WTF ARE YOU DOING
     @IBOutlet var totalTextField : UITextField!
     @IBOutlet var taxPctSlider : UISlider!
     @IBOutlet var taxPctLabel : UILabel!
